@@ -1,0 +1,147 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title> 
+		
+			шахматы
+
+		</title>
+		<link rel="stylesheet" href="style.css">
+
+	</head>	
+		
+
+
+	<body>
+	
+			<center><h1>Шахматы</h1></center>
+
+
+
+		</table>
+			
+		<table bgcolor = #696969 > 
+			<tr>
+				<td width = "450" height = "50" ><center><h1> <p><time id="currentTime"></time></p></h1> <script>
+  var timeElement = document.getElementById('currentTime');
+  setInterval(function () {
+    var currentTime = new Date();
+    timeElement.textContent = currentTime.toLocaleTimeString();}, 1);
+</script></center></td>
+				<td width = "450" height = "50" ><center> <p id="blinking">
+			<a href="https://lichess.org/">Играть</a>
+		</p>
+		 <script>
+      const p = document.getElementById("blinking")
+      setInterval(function () {
+        if (p.style.fontSize !== "20px") {
+          p.style.fontSize = "20px"
+        } else {
+          p.style.fontSize = "40px"
+        }
+      }, 1000)
+    </script>
+				<td width = "450" height = "50" ><center><h2> Самая БЕЗУМНАЯ партия <a href="https://rutube.ru/video/1face63185a0510d36656749058a35b3/">Кубка Мира</a> 2025!</h2> </center></td>
+				<td width = "450" height = "50" ><center><h2> <a href="https://media.foxford.ru/articles/kak-igrat-v-shakhmaty">Правила игры</a></h2> </center></td>
+			</tr>
+			
+
+
+		</table>
+
+
+
+		<table > 
+
+				<tr><td width = "50" height = "50" >  </td></tr>
+
+
+		</table>
+
+
+		<table>
+
+
+			<tr>
+				
+				<td bgcolor = #FFFFFF  width = "200" height = "200" ><a href="bashny.html"><img src = "bashny.png" width = "200" height = "200" ></a></td>
+				<td bgcolor = #000000  width = "200" height = "200" ><a href="kon.html"> <img src = "kon.png" width = "200" height = "200" ></a> </td>
+				<td bgcolor = #FFFFFF  width = "200" height = "200" ><a href="slon.html"> <img src = "slon.png" width = "200" height = "200" ></a> </td>
+				<td bgcolor = #000000  width = "200" height = "200" ><a href="karoleva.html"> <img src = "karoleva.png" width = "200" height = "200" ></a> </td>
+				<td bgcolor = #FFFFFF  width = "200" height = "200" ><a href="karolva.html"> <img src = "karolva.png" width = "200" height = "200" ></a> </td>
+				<td bgcolor = #000000  width = "200" height = "200" ><a href="slon.html"> <img src = "slon.png" width = "200" height = "200" ></a> </td>
+				<td bgcolor = #FFFFFF  width = "200" height = "200" ><a href="kon.html"> <img src = "kon.png" width = "200" height = "200" ></a> </td>
+				<td bgcolor = #000000  width = "200" height = "200" ><a href="bashny.html"> <img src = "bashny.png" width = "200" height = "200" ></a> </td>
+
+			</tr>
+
+			<tr>
+				
+				<td bgcolor = #000000  width = "200" height = "200" > <a href="peshka.html"> <img src = "peshka.png" width = "200" height = "200" > </a> </td>
+				<td bgcolor = #FFFFFF  width = "200" height = "200" ><a href="peshka.html"> <img src = "peshka.png" width = "200" height = "200" ></a> </td>
+				<td bgcolor = #000000  width = "200" height = "200" ><a href="peshka.html"> <img src = "peshka.png" width = "200" height = "200" ></a> </td>
+				<td bgcolor = #FFFFFF  width = "200" height = "200" ><a href="peshka.html"> <img src = "peshka.png" width = "200" height = "200" ></a> </td>
+				<td bgcolor = #000000  width = "200" height = "200" ><a href="peshka.html"> <img src = "peshka.png" width = "200" height = "200" ></a> </td>
+				<td bgcolor = #FFFFFF  width = "200" height = "200" ><a href="peshka.html"> <img src = "peshka.png" width = "200" height = "200" ></a> </td>
+				<td bgcolor = #000000  width = "200" height = "200" ><a href="peshka.html"> <img src = "peshka.png" width = "200" height = "200" ></a> </td>
+				<td bgcolor = #FFFFFF  width = "200" height = "200" ><a href="peshka.html"> <img src = "peshka.png" width = "200" height = "200" ></a> </td>
+
+			</tr>
+
+			<tr>
+				
+				<td bgcolor = #FFFFFF  width = "200" height = "200" >  </td>
+				<td bgcolor = #000000  width = "200" height = "200" >  </td>
+				<td bgcolor = #FFFFFF  width = "200" height = "200" >  </td>
+				<td bgcolor = #000000  width = "200" height = "200" >  </td>
+				<td bgcolor = #FFFFFF  width = "200" height = "200" >  </td>
+				<td bgcolor = #000000  width = "200" height = "200" >  </td>
+				<td bgcolor = #FFFFFF  width = "200" height = "200" >  </td>
+				<td bgcolor = #000000  width = "200" height = "200" >  </td>
+
+			</tr>
+
+
+		</table>
+
+		<table > 
+			
+				
+				<tr><td width = "200" height = "200" >  </td></tr>
+				<tr><td width = "200" height = "200" >  </td></tr>
+				
+				
+
+		</table>
+
+		<table bgcolor = #696969> 
+			<tr>
+				
+				<td width = "450" height = "200" ><center> 1 </center></td>
+				<td width = "450" height = "200" ><center> ИНФОРМАЦИЯ </center></td>
+				<td width = "450" height = "200" ><center> НАВИГАЦИЯ ПО САЙТУ </center></td>
+				<td width = "450" height = "200" ><center><a href="https://lichess.org/"> доп сайт </a> </center></td>
+				
+
+			</tr>
+
+			<tr>
+				
+				<td width = "450" height = "200" ><center> 1 </center></td>
+				<td width = "450" height = "200" ><center> 2 </center></td>
+				<td width = "450" height = "200" ><center> 3 </center></td>
+				<td width = "450" height = "200" ><center> 4 </center></td>
+				
+
+			</tr>
+
+		</table>
+		
+
+	</body>
+
+<script>
+  alert("Hello World!");
+</script> </center></td>
+
+</html>
